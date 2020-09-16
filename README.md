@@ -1,7 +1,7 @@
 # JavaScript-Control Statements
 It explains problems that are solved using array and control statements of JavaScript such as loops and iterators.
 <br>
-### Description of the problems solved here using the concepts of Arrays and loops of JavaScript:
+## Description of the problems solved here using the concepts of Arrays and loops of JavaScript:
 <h3> 1.Arrays </h3> 
 Description:
 Define a function which returns the output as per the required
