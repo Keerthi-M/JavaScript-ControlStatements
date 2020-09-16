@@ -36,4 +36,4 @@ Conditions:
 1. Map method must be used.
 2. The data types should be declared as mentioned above.
 
-<h3> -> HAPPY LEARNING ! <- <h3>
+<h3> ->HAPPY LEARNING !<- <h3>
