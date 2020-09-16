@@ -2,7 +2,7 @@
 It explains problems that are solved using array and control statements of JavaScript such as loops and iterators.
 <br>
 ### Description of the problems solved here using the concepts of Arrays and loops of JavaScript:
-<h4> 1.Arrays </h4> 
+<h3> 1.Arrays </h3> 
 Description:
 Define a function which returns the output as per the required
 datatype. The array should be passed to the function. Find the
@@ -14,7 +14,7 @@ Conditions:
 1. Use a math object to get the result.
 2. For loop is not allowed.
 
-<h4> 2.Loops </h4>
+<h3> 2.Loops </h3>
 Description:
 Accept a number input and print a string output. Define a
 function to perform the following operation. Insert dashes (-) between
@@ -26,7 +26,7 @@ Conditions:
 1. Javascript array methods must be used.
 2. The data type should be declared as mentioned above.
 
-<h4> 3.Iterators </h4>
+<h3> 3.Iterators </h3>
 Description:
 Define a function which accepts an array . Calculate the product
 of each value of the array with the given number and find the sum of
@@ -36,4 +36,4 @@ Conditions:
 1. Map method must be used.
 2. The data types should be declared as mentioned above.
 
-*HAPPY LEARNING !*  
+**HAPPY LEARNING !**  
