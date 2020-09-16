@@ -1,4 +1,4 @@
-# js-Control Statements
+# JavaScript-Control Statements
 It explains problems that are solved using array and control statements of JavaScript such as loops and iterators.
 <br>
 ### Description of the problems solved here using the concepts of Arrays and loops of JavaScript:
@@ -36,4 +36,4 @@ Conditions:
 1. Map method must be used.
 2. The data types should be declared as mentioned above.
 
-<h3> HAPPY LEARNING ! <h3>
+<h3> -> HAPPY LEARNING ! <- <h3>
